@@ -29,9 +29,8 @@ Place your datasets in the `datasets` folder:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/suryanattzz/sentiment-analysis-models.git
-cd sentiment-analysis-models
-
+git clone https://github.com/suryanattzz/Sentiment_analysis_models.git
+cd Sentiment_analysis_models
 
 2. Install dependencies:
    ```bash
