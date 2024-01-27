@@ -2,17 +2,18 @@
 
 This repository contains three sentiment analysis models for different types of text data: Tweets, Movie Reviews, and Generic Text (using Machine Learning).
 
-## Models
+### LSTM Model for Movie Reviews
+- **File:** `movie_reviews_sentiment_analysis.py`
+- **Description:** This script trains an LSTM model for sentiment analysis on movie reviews.
 
-1. **LSTM Sentiment Analysis for Tweets**
-   - File: `tweets_sentiment_analysis.py`
+### LSTM Model for Tweets
+- **File:** `tweets_sentiment_analysis.py`
+- **Description:** This script trains an LSTM model for sentiment analysis on tweets.
 
-2. **LSTM Sentiment Analysis for Movie Reviews**
-   - File: `movie_review_sentiment_analysis.py`
+### Machine Learning Model
+- **File:** `ML_sentiment_analysis_models.py`
+- **Description:** This script trains a machine learning models (Logistic Regression,Naive Bayes ,RandomForest ,DecisionTree ,etc Models) for sentiment analysis on a generic dataset.
 
-
-3. **Machine Learning Sentiment Analysis**
-   - File: `ML_sentiment_analysis_models.py`
 
 
 ## Datasets
@@ -25,7 +26,14 @@ Place your datasets in the `datasets` folder:
 
 ## Usage
 
-1. Install dependencies:
+1. Clone the repository:
+
+```bash
+git clone https://github.com/suryanattzz/sentiment-analysis-models.git
+cd sentiment-analysis-models
+
+
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
