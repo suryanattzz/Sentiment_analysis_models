@@ -31,9 +31,10 @@ Place your datasets in the `datasets` folder:
 ```bash
 git clone https://github.com/suryanattzz/Sentiment_analysis_models.git
 cd Sentiment_analysis_models
+ ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-
+2.Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
