@@ -3,7 +3,7 @@
 This repository contains three sentiment analysis models for different types of text data: Tweets, Movie Reviews, and Generic Text (using Machine Learning).
 
 ### LSTM Model for Movie Reviews
-- **File:** `movie_reviews_sentiment_analysis.py`
+- **File:** `movie_review_sentiment_analysis.py`
 - **Description:** This script trains an LSTM model for sentiment analysis on movie reviews.
 
 ### LSTM Model for Tweets
